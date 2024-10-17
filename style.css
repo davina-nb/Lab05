@@ -1,0 +1,88 @@
+.box{
+    background-color: aquamarine;
+    height: 200px;
+    width: 300px;
+}
+
+.responsive-box{
+    background-color: rgb(185, 122, 245);
+    height: 50vh;
+    width: 50vw;
+}
+
+p{
+    background-color: rgb(219, 97, 97);
+    padding: 20px;
+}
+
+.custom-padding{
+    background-color: rgb(233, 238, 162);
+    padding: 10px 20px 10px 20px;
+}
+
+.border-box{
+    background-color: orangered;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+.rounded-border{
+    border: 3px;
+    border-color: red;
+    border-style: dotted;
+    border-radius: 15px;
+}
+
+.margin-text{
+    background-color: cadetblue;
+    margin: 20px;
+}
+
+.custom-margin{
+    background-color: darkred;
+    margin: 20px 40px 20px 40px;
+}
+
+.inline-element{
+    background-color: rgb(68, 187, 68);
+    display: inline;
+}
+
+.block-element{
+    background-color: coral;
+    display: block;
+}
+
+.inline-block-element{
+    background-color: burlywood;
+    display: inline-block;
+}
+
+.hidden-element{
+    background-color: crimson;
+    display: none;
+}
+
+.visible-element{
+    visibility: visible;
+}
+
+.invisible-element{
+    background-color: darkmagenta;
+    visibility: hidden;
+}
+
+.transparent-box{
+    background-color: blue;
+    opacity: 0.5;
+}
+
+
+
+
+
+
+
+
+
